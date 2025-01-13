@@ -1,0 +1,1 @@
+You walk until nightfall and find a cozy tree hole to rest in. Good job!
