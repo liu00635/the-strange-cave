@@ -2,6 +2,6 @@ You are hiking in the mountains when you see a dark cave. A cold wind blows out 
 
 What do you do?
 
-[Go into the cave](go-inside.md)
+[Go into the cave](cave.md)
 
 [Walk Away](walk-away.md)
