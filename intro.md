@@ -8,3 +8,4 @@ What do you do?
 
 [Walk Away](walk-away.md)
 
+[found a castle](found-a-castle.md)
