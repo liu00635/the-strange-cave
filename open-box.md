@@ -1,0 +1,1 @@
+You opened the box, and suddenly, a cascade of butterflies burst out. They danced and swirled around you, filling the air with a magical flurry of color and motion. It was like stepping into a dream — absolutely breathtaking!
